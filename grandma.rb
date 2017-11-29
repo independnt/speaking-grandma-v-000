@@ -2,6 +2,8 @@
 def speak_to_grandma(response)
   if response == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  elsif response == "Hi Nana, how are you?"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 
